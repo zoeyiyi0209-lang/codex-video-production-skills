@@ -1,0 +1,4 @@
+interface:
+  display_name: "高效拍摄计划"
+  short_description: "自动合并多份脚本场景并生成高效率拍摄时间表与执行清单"
+  default_prompt: "Use $plan-efficient-video-shoots to turn my uploaded scripts into an efficient scene-batched shooting schedule."
