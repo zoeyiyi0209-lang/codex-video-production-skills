@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan"
+  short_description: "自动合并多份脚本场景并生成高效率拍摄时间表与执行清单"
+  default_prompt: "使用 $plan，把我上传的脚本整理成按场景集中拍摄的高效率计划。"
