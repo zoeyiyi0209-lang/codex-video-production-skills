@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frames"
+  short_description: "把视频整理成左侧逐句台词、右侧同期多画面的 Excel"
+  default_prompt: "使用 $frames，把这个视频整理成左侧逐句台词、右侧同期多画面的 Excel。"
